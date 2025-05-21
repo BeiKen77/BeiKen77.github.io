@@ -58,7 +58,7 @@ pnpm docs:preview
 如需申请友链，请先添加本站，然后通过以下方式申请：
 
 1. 在本站留言
-2. 访问[GitHub 友链申请页面](https://github.com/wkwbk/wkwbk.github.io/issues/1)提交申请
+2. 访问[GitHub 友链申请页面](https://github.com/BeiKen77/wkwbk.github.io/issues/1)提交申请
 
 ## 本站信息
 

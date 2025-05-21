@@ -1,68 +1,62 @@
 [
   {
-    "title": "Heo",
-    "desc": "爱折腾的设计师",
-    "link": "https://blog.zhheo.com",
-    "icon": "https://blog.zhheo.com/img/avatar.png"
+    "title": "Latent Box 合集",
+    "desc": "卓浩的 AI 产品清单，涵盖全球优秀的 AI 应用",
+    "link": "https://latentbox.com",
+    "icon": "https://www-x-aipintai-x-com.img.addlink.cn/content/uploadfile/202408/4b1c1724015038.jpg"
   },
   {
-    "title": "Akilarの糖果屋",
-    "desc": "期待您的光临！",
-    "link": "https://akilar.top",
-    "icon": "https://npm.elemecdn.com/akilar-candyassets/image/siteicon/favicon.png"
+    "title": "Google 地球",
+    "desc": "地球地域定位显示",
+    "link": "https://earth.google.com",
+    "icon": "https://img.51pgzs.com/22/imgfile/20230826/26145200ndf8.png"
   },
   {
-    "title": "山暮云秋",
-    "desc": "千里关山边草暮，一星烽火朔云秋",
-    "link": "https://blog.muyun.space",
-    "icon": "https://jsd.vxo.im/gh/ShanMuYunQiu/Image/info/user.jpg"
+    "title": "巡礼地图",
+    "desc": "共享世界地图，动漫和游戏的取景地标",
+    "link": "https://anitabi.cn",
+    "icon": "https://imagepphcloud.thepaper.cn/pph/image/343/436/12.jpg"
   },
   {
-    "title": "伊奥's 教程集",
-    "desc": "青，取之于蓝，而青于蓝；冰，水为之，而寒于水。 --荀子〔劝学〕",
-    "link": "https://yiov.top",
-    "icon": "https://yiov.top/logo.png"
+    "title": "央视网",
+    "desc": "CCTV 节目官网，实时电视台频道",
+    "link": "https://tv.cctv.com",
+    "icon": "https://i1.hdslb.com/bfs/archive/7adf8b05fdfa955e50db6d0e74a4fba2ff5aaf67.jpg"
   },
   {
-    "title": "Ordis",
-    "desc": "船到桥头自然直，柳暗花明又一村",
-    "link": "https://blog.imbhj.com",
-    "icon": "https://www.imbhj.com/static/img/logo-bailuobo.jpg"
+    "title": "凹凸工坊",
+    "desc": "根据文档内容，一键生成手写文稿",
+    "link": "https://www.autohanding.com",
+    "icon": "https://www.autohanding.com/img/logo.a5f914db.png"
   },
   {
-    "title": "茂茂物语",
-    "desc": "茂茂的成长之路，包含前端常用知识、源码阅读笔记、各种奇淫技巧、日常提效工具等",
-    "link": "https://notes.fe-mm.com",
-    "icon": "https://notes.fe-mm.com/logo.png"
+    "title": "稿定社区",
+    "desc": "根据图片和描述一键做同款，AI 生成创万象，",
+    "link": "https://www.gaoding.art",
+    "icon": "https://p8.itc.cn/q_70/images03/20230426/644639d4f58e4162ae7f57e9835434d1.jpeg"
   },
   {
-    "title": "VitePress",
-    "desc": "VitePress 快速上手中文教程，如果你也想搭建它，那跟我一起做吧",
-    "link": "https://vitepress.yiov.top",
-    "icon": "https://vitepress.yiov.top/logo.png"
+    "title": "着色生成器",
+    "desc": "根据描述生成独特的驱动，AI 绘画着色页生成器，",
+    "link": "https://zcoloring.com",
+    "icon": "https://pic1.zhimg.com/v2-881ab9f62fcc5d0c6d31096993a1662c_r.jpg"
   },
   {
-    "title": "XingJiのBlog",
-    "desc": "迄今所有人生都大写着失败，但不妨碍我继续向前✨",
-    "link": "https://love.xingji.fun",
-    "icon": "https://love.xingji.fun/img/XingJi.jpg"
+    "title": "Vidu",
+    "desc": "根据图片和描述让图片动起来，急速生成高质量 AI 创意视频",
+    "link": "https://www.vidu.cn",
+    "icon": "https://i2.hdslb.com/bfs/archive/9e7d61e63886339306b31cbfc6a633e703e4cfc9.jpg"
   },
   {
-    "title": "iFluxArt",
-    "desc": "斐启智境 · 流韵新生",
-    "link": "https://iflux.art",
-    "icon": "https://iflux.art/favicon.ico"
+    "title": "ChatExcel",
+    "desc": "上传数据通过和 AI 聊天，即可处理 Excel 表和数据分析",
+    "link": "https://www.chatexcel.com",
+    "icon": "https://pic1.zhimg.com/100/v2-ed450048c00dd4515c1d19103925d00c_r.jpg"
   },
   {
-    "title": "三水水水碎碎念",
-    "desc": "Share life, bit by bit",
-    "link": "https://sanshui756.github.io",
-    "icon": "https://i.postimg.cc/1zRmgtv1/log1.jpg"
-  },
-  {
-    "title": "龚东海的博客",
-    "desc": "真诚记录，生活值得",
-    "link": "https://gdhblog.com",
-    "icon": "https://gdhblog.com/avatar.png"
+    "title": "老鱼简历",
+    "desc": "输入你的个人信息，想要的简历类型，一键制作高质量简历",
+    "link": "https://www.laoyujianli.com/",
+    "icon": "https://pic.52112.com/2019/08/08/EPS-190808_149/rINjxTXcTy_small.jpg"
   }
 ]

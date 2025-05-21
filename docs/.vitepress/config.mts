@@ -97,7 +97,7 @@ export default defineConfig({
 
   // 站点地图
   sitemap: {
-    hostname: 'https://lisir.me',
+    hostname: 'https://20021202.xyz',
   },
 
   // 默认主题配置

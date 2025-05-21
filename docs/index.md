@@ -75,9 +75,9 @@ import MFriends from './home/MFriends.vue'
 
 :::
 
-## 🎧 [**Spotify 正在播放**](https://open.spotify.com/user/31s4ftvnfnus65uynvxmxu7rkfom)
+## 🎧 [**Spotify 正在播放**](https://open.spotify.com/user/31p2wjffk3532r4tvq452jjvuea4)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31s4ftvnfnus65uynvxmxu7rkfom&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31s4ftvnfnus65uynvxmxu7rkfom&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31p2wjffk3532r4tvq452jjvuea4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31p2wjffk3532r4tvq452jjvuea4&redirect=true)
 
 ::: details 我的歌单（需翻墙）
 

@@ -1,16 +1,16 @@
 ---
 layout: home
 
-title: LI SIR
+title: XING
 titleTemplate: 个人博客
 
 hero: 
-  name: LI SIR
+  name: XING
   text: 我的个人博客
   tagline: 你的时间花在哪里，你的收获就在哪里
   image:
     src: /logo.png
-    alt: LI SIR
+    alt: XING
   actions:
     - theme: brand
       text: 开始学习

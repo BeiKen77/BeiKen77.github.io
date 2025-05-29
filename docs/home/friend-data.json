@@ -1,75 +1,96 @@
 [
   {
-    "title": "国家智慧教育平台",
-    "desc": "国家级教育资源平台，从小学到博士的课本教材和课程教学，应有尽有",
+    "title": "国家教育平台",
+    "desc": "教育部主办的国家级教育公共服务平台，聚合资源覆盖全学段，服务师生及社会学习者",
     "link": "https://basic.smartedu.cn",
     "icon": "https://b0.bdstatic.com/6c98f0f6f1911fd7383930865e37ea38.jpg"
   },
   {
-    "title": "China 央视网",
-    "desc": "CCTV 节目官网，实时电视台频道",
+    "title": "央视网",
+    "desc": "中央广播电视总台旗下综合视频网站，整合多类内容，面向全球传播中国声音的权威平台",
     "link": "https://tv.cctv.com",
     "icon": "https://iphoto.mac89.com/photo/180704/EPS-180704_297/KgMOPBDFBZ_small.jpg"
   },
 
   {
     "title": "Google 地球",
-    "desc": "地球地域定位显示",
+    "desc": "Google 开发的虚拟地球仪工具，叠加卫星影像与地理数据，支持多方式探索地球全貌",
     "link": "https://earth.google.com",
     "icon": "https://img.51pgzs.com/22/imgfile/20230826/26145200ndf8.png"
   },
   {
     "title": "巡礼地图",
-    "desc": "共享世界地图，动漫和游戏的取景地标",
+    "desc": "聚焦动漫游戏取景地的共享地图平台，提供世界地标信息，方便用户打卡影视场景",
     "link": "https://anitabi.cn",
     "icon": "https://pic.rmb.bdstatic.com/bjh/news/8e84d2152e75ebc6a5b7ab7a9c49b3d7.jpeg"
   },
   {
-    "title": "AI Box 合集",
-    "desc": "卓浩的 AI 产品清单，涵盖全球优秀的 AI 应用",
+    "title": "AI Box",
+    "desc": "汇集全球优秀 AI 应用的产品清单，涵盖多领域工具，助力用户发现实用人工智能服务",
     "link": "https://latentbox.com",
     "icon": "https://www-x-aipintai-x-com.img.addlink.cn/content/uploadfile/202408/4b1c1724015038.jpg"
   },
   {
-    "title": "着色生成器",
-    "desc": "根据描述生成独特的驱动，AI 绘画着色页生成器，",
+    "title": "智能着色",
+    "desc": "基于文字描述的 AI 绘画工具，可快速生成独特着色页，满足创意绘画与个性化需求",
     "link": "https://zcoloring.com",
     "icon": "https://pic1.zhimg.com/v2-881ab9f62fcc5d0c6d31096993a1662c_r.jpg"
   },
   {
     "title": "稿定社区",
-    "desc": "根据图片和描述一键做同款，AI 生成创万象，",
+    "desc": "依托 AI 技术的图片创意平台，支持“一键做同款”，轻松实现图文内容的高效创作",
     "link": "https://www.gaoding.art",
     "icon": "https://android-artworks.25pp.com/fs08/2024/03/25/1/110_15bb2c0775014bf7e0a94e716d65a374_con.png"
   },
   {
     "title": "Vidu 视频",
-    "desc": "根据图片和描述让图片动起来，急速生成高质量 AI 创意视频",
+    "desc": "AI 驱动的图片动态化工具，输入图文描述即可生成高质量创意视频，操作便捷高效",
     "link": "https://www.vidu.cn",
     "icon": "https://videoimg.ws.126.net/cover/20240730/QMH3wFNrz_cover.jpg"
   },
   {
     "title": "魔方简历",
-    "desc": "根据你的个人技能信息，投入的简历的方向，一键生成简历模板",
+    "desc": "智能简历生成平台，根据个人技能与求职方向，一键生成适配岗位的专业简历模板",
     "link": "https://magicv.art/zh",
     "icon": "https://tm-image.tianyancha.com/tm/2d4fd730b9c8706202b01ce2099fb711.jpg"
   }, 
   {
     "title": "老鱼简历",
-    "desc": "输入你的个人信息，想要的简历类型，一键制作高质量简历",
+    "desc": "在线简历制作工具，输入个人信息与类型需求，快速生成高质量、定制化求职简历",
     "link": "https://www.laoyujianli.com",
     "icon": "https://pic.52112.com/2019/08/08/EPS-190808_149/rINjxTXcTy_small.jpg"
   },
   {
     "title": "凹凸工坊",
-    "desc": "根据文档内容，一键生成手写文稿",
+    "desc": "文档转换手写文稿工具，支持一键生成仿真手写内容，适用于学习、办公等场景",
     "link": "https://www.autohanding.com",
     "icon": "https://www.autohanding.com/img/logo.a5f914db.png"
   },
   {
     "title": "ChatExcel",
-    "desc": "上传数据通过和 AI 聊天，即可处理 Excel 表和数据分析",
+    "desc": "智能表格处理平台，上传数据后通过对话交互完成 Excel 操作与数据分析，简单高效",
     "link": "https://www.chatexcel.com",
     "icon": "https://pic1.zhimg.com/100/v2-ed450048c00dd4515c1d19103925d00c_r.jpg"
-  }
+  },
+  {
+    "title": "ProcessOn",
+    "desc": "AI 辅助绘图工具，根据需求一键生成各类流程图，支持在线协作，提升可视化效率",
+    "link": "https://www.processon.com/diagraming/680f3ab01780bd6627ec3ee1",
+    "icon": "https://www.processon.com/v5_editor/static/assets/images/logo-react.svg"
+  },  {
+    "title": "GraphMaker",
+    "desc": "AI 图表生成工具，单击即可创建美观且具洞察力的专业图表，简化数据可视化流程",
+    "link": "https://aigraphmaker.net",
+    "icon": "https://aigraphmaker.net/sites/default/files/logo.svg"
+  },  {
+    "title": "Drawio",
+    "desc": "免费开源的跨平台图表工具，支持在线协作绘制流程图、UML 图等，兼容多格式与云存储",
+    "link": "https://app.diagrams.net",
+    "icon": "https://www.autohanding.com/img/logo.a5f914db.png"
+  },  {
+    "title": "Drawdb",
+    "desc": "开源在线数据库设计工具，提供可视化建模与 SQL 生成功能，支持多类型数据库定制",
+    "link": "https://www.drawdb.app/editor",
+    "icon": "https://dd-static.jd.com/ddimg/jfs/t1/218240/12/22156/148726/6335666dE5b3f18bc/8afdcbe9bc2555a6.png"
+  }  
 ]

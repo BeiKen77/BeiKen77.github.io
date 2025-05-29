@@ -11,7 +11,6 @@
     "link": "https://tv.cctv.com",
     "icon": "https://iphoto.mac89.com/photo/180704/EPS-180704_297/KgMOPBDFBZ_small.jpg"
   },
-
   {
     "title": "Google 地球",
     "desc": "Google 开发的虚拟地球仪工具，叠加卫星影像与地理数据，支持多方式探索地球全貌",
@@ -28,7 +27,7 @@
     "title": "AI Box",
     "desc": "汇集全球优秀 AI 应用的产品清单，涵盖多领域工具，助力用户发现实用人工智能服务",
     "link": "https://latentbox.com",
-    "icon": "https://www-x-aipintai-x-com.img.addlink.cn/content/uploadfile/202408/4b1c1724015038.jpg"
+    "icon": "https://copyright.bdstatic.com/vcg/creative/5ec748790f74cf49f77d5da83233d55674cd4ea2.jpg"
   },
   {
     "title": "智能着色",
@@ -46,14 +45,14 @@
     "title": "Vidu 视频",
     "desc": "AI 驱动的图片动态化工具，输入图文描述即可生成高质量创意视频，操作便捷高效",
     "link": "https://www.vidu.cn",
-    "icon": "https://videoimg.ws.126.net/cover/20240730/QMH3wFNrz_cover.jpg"
+    "icon": "https://i1.hdslb.com/bfs/archive/58b6adb1734a082097a524c0ec9d9f2e01837809.jpg"
   },
   {
     "title": "魔方简历",
     "desc": "智能简历生成平台，根据个人技能与求职方向，一键生成适配岗位的专业简历模板",
     "link": "https://magicv.art/zh",
     "icon": "https://tm-image.tianyancha.com/tm/2d4fd730b9c8706202b01ce2099fb711.jpg"
-  }, 
+  },
   {
     "title": "老鱼简历",
     "desc": "在线简历制作工具，输入个人信息与类型需求，快速生成高质量、定制化求职简历",
@@ -77,20 +76,23 @@
     "desc": "AI 辅助绘图工具，根据需求一键生成各类流程图，支持在线协作，提升可视化效率",
     "link": "https://www.processon.com/diagraming/680f3ab01780bd6627ec3ee1",
     "icon": "https://www.processon.com/v5_editor/static/assets/images/logo-react.svg"
-  },  {
+  },
+  {
     "title": "GraphMaker",
     "desc": "AI 图表生成工具，单击即可创建美观且具洞察力的专业图表，简化数据可视化流程",
     "link": "https://aigraphmaker.net",
     "icon": "https://aigraphmaker.net/sites/default/files/logo.svg"
-  },  {
+  },
+  {
     "title": "Drawio",
     "desc": "免费开源的跨平台图表工具，支持在线协作绘制流程图、UML 图等，兼容多格式与云存储",
     "link": "https://app.diagrams.net",
-    "icon": "https://www.autohanding.com/img/logo.a5f914db.png"
-  },  {
+    "icon": "https://img.foxmac.com/2021/03/draw.io.png"
+  },
+  {
     "title": "Drawdb",
     "desc": "开源在线数据库设计工具，提供可视化建模与 SQL 生成功能，支持多类型数据库定制",
     "link": "https://www.drawdb.app/editor",
-    "icon": "https://s3.typoniels.de/typoniels-strapi/production/drawdb_efa2ff0964.webp"
-  }  
+    "icon": "https://pic.616pic.com/ys_img/00/93/33/jzy78V4B6y.jpg"
+  }
 ]

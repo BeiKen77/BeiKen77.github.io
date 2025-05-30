@@ -61,7 +61,7 @@
   },
   {
     "title": "凹凸工坊",
-    "desc": "文档转换手写文稿工具，支持一键生成仿真手写内容，适用于学习、办公等场景",
+    "desc": "AI 智能转换电子文档为逼真手写体，支持多种笔迹风格自定义，轻松生成作业和文件",
     "link": "https://www.autohanding.com",
     "icon": "https://www.autohanding.com/img/logo.a5f914db.png"
   },
@@ -94,5 +94,28 @@
     "desc": "开源在线数据库设计工具，提供可视化建模与 SQL 生成功能，支持多类型数据库定制",
     "link": "https://www.drawdb.app/editor",
     "icon": "https://p0.itc.cn/q_70/images03/20201023/0f7bef5168e14192989358594c706802.png"
+  },
+  {
+    "title": "Wallspic",
+    "desc": "海量 4K/8K 超清壁纸资源，每日更新，汇聚全球摄影师作品支持按风格、色彩、主题精准搜索",
+    "link": "https://wallspic.com/cn/album",
+    "icon": "https://www.1zj.com/uploadfile/2019/1011/20191011020039136.jpg"
+  },
+  {
+    "title": "Wallhaven",
+    "desc": "海量优质 4K/8K 分辨率壁纸，每日更新最受欢迎壁纸排行，涵盖动漫、自然、艺术等丰富分类",
+    "link": "https://wallhaven.cc",
+    "icon": "https://www.1zj.com/uploadfile/2019/1011/20191011020039726.jpg"
+  },  {
+    "title": "Removebg",
+    "desc": "AI 一键自动去除图片背景，精准识别主体边缘，不留痕迹，支持人像、商品等复杂场景抠图",
+    "link": "https://www.remove.bg/zh",
+    "icon": "https://www.remove.bg/favicon.ico"
+  },
+  {
+    "title": "MagicEraser",
+    "desc": "AI 智能消除照片中多余物体或路人，自动填充自然背景，不留痕迹，还原清晰，保持画面美观",
+    "link": "https://magiceraser.pro/zh",
+    "icon": "https://magiceraser.pro/favicon.ico"
   }
 ]

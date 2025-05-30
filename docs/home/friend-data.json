@@ -9,7 +9,7 @@
     "title": "央视网",
     "desc": "中央广播电视总台旗下综合视频网站，整合多类内容，面向全球传播中国声音的权威平台",
     "link": "https://tv.cctv.com",
-    "icon": "https://iphoto.mac89.com/photo/180704/EPS-180704_297/KgMOPBDFBZ_small.jpg"
+    "icon": "https://tv.cctv.com/favicon.ico"
   },
   {
     "title": "Google 地球",
@@ -21,43 +21,43 @@
     "title": "巡礼地图",
     "desc": "聚焦动漫游戏取景地的共享地图平台，提供世界地标信息，方便用户打卡影视场景",
     "link": "https://anitabi.cn",
-    "icon": "https://pic.rmb.bdstatic.com/bjh/news/8e84d2152e75ebc6a5b7ab7a9c49b3d7.jpeg"
+    "icon": "https://anitabi.cn/favicon.ico"
   },
   {
     "title": "AI Box",
     "desc": "汇集全球优秀 AI 应用的产品清单，涵盖多领域工具，助力用户发现实用人工智能服务",
     "link": "https://latentbox.com",
-    "icon": "https://copyright.bdstatic.com/vcg/creative/5ec748790f74cf49f77d5da83233d55674cd4ea2.jpg"
+    "icon": "https://latentbox.com/favicon.ico"
   },
   {
     "title": "智能着色",
     "desc": "基于文字描述的 AI 绘画工具，可快速生成独特着色页，满足创意绘画与个性化需求",
     "link": "https://zcoloring.com",
-    "icon": "https://pic1.zhimg.com/v2-881ab9f62fcc5d0c6d31096993a1662c_r.jpg"
+    "icon": "https://zcoloring.com/favicon.ico"
   },
   {
     "title": "稿定社区",
     "desc": "依托 AI 技术的图片创意平台，支持“一键做同款”，轻松实现图文内容的高效创作",
     "link": "https://www.gaoding.art",
-    "icon": "https://android-artworks.25pp.com/fs08/2024/03/25/1/110_15bb2c0775014bf7e0a94e716d65a374_con.png"
+    "icon": "https://www.gaoding.art/favicon.ico"
   },
   {
     "title": "Vidu 视频",
     "desc": "AI 驱动的图片动态化工具，输入图文描述即可生成高质量创意视频，操作便捷高效",
     "link": "https://www.vidu.cn",
-    "icon": "https://picx.zhimg.com/v2-95842ebcfc6767ed5e40a774650c27f7_720w.jpg?source=172ae18b"
+    "icon": "https://www.vidu.cn/logo.svg"
   },
   {
     "title": "魔方简历",
     "desc": "智能简历生成平台，根据个人技能与求职方向，一键生成适配岗位的专业简历模板",
     "link": "https://magicv.art/zh",
-    "icon": "https://tm-image.tianyancha.com/tm/2d4fd730b9c8706202b01ce2099fb711.jpg"
+    "icon": "https://magicv.art/favicon.ico"
   },
   {
     "title": "老鱼简历",
     "desc": "在线简历制作工具，输入个人信息与类型需求，快速生成高质量、定制化求职简历",
     "link": "https://www.laoyujianli.com",
-    "icon": "https://pic.52112.com/2019/08/08/EPS-190808_149/rINjxTXcTy_small.jpg"
+    "icon": "https://www.laoyujianli.com/favicon.ico"
   },
   {
     "title": "凹凸工坊",
@@ -75,7 +75,7 @@
     "title": "ProcessOn",
     "desc": "AI 辅助绘图工具，根据需求一键生成各类流程图，支持在线协作，提升可视化效率",
     "link": "https://www.processon.com/diagraming/680f3ab01780bd6627ec3ee1",
-    "icon": "https://www.processon.com/v5_editor/static/assets/images/logo-react.svg"
+    "icon": "https://www.processon.com/favicon.ico"
   },
   {
     "title": "GraphMaker",
@@ -93,20 +93,21 @@
     "title": "Drawdb",
     "desc": "开源在线数据库设计工具，提供可视化建模与 SQL 生成功能，支持多类型数据库定制",
     "link": "https://www.drawdb.app/editor",
-    "icon": "https://p0.itc.cn/q_70/images03/20201023/0f7bef5168e14192989358594c706802.png"
+    "icon": "https://www.drawdb.app/favicon.ico"
   },
   {
     "title": "Wallspic",
     "desc": "海量 4K/8K 超清壁纸资源，每日更新，汇聚全球摄影师作品支持按风格、色彩、主题精准搜索",
     "link": "https://wallspic.com/cn/album",
-    "icon": "https://www.1zj.com/uploadfile/2019/1011/20191011020039136.jpg"
+    "icon": "https://wallspic.com/favicon.ico"
   },
   {
     "title": "Wallhaven",
     "desc": "海量优质 4K/8K 分辨率壁纸，每日更新最受欢迎壁纸排行，涵盖动漫、自然、艺术等丰富分类",
     "link": "https://wallhaven.cc",
-    "icon": "https://www.1zj.com/uploadfile/2019/1011/20191011020039726.jpg"
-  },  {
+    "icon": "https://www.1zj.com/uploadfile/2019/1011/20191011020039136.jpg"
+  },
+  {
     "title": "Removebg",
     "desc": "AI 一键自动去除图片背景，精准识别主体边缘，不留痕迹，支持人像、商品等复杂场景抠图",
     "link": "https://www.remove.bg/zh",
